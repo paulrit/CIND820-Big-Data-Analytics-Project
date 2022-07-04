@@ -17,4 +17,6 @@ The tools used in this project are: Microsoft Azure Platform, Python and Jupyter
 
 
 Refined Research Question
+
+
 What words in the text of a hotel review in Europe indicate whether is it good or bad? Also, do good and bad hotels tend to congregate with each other?
